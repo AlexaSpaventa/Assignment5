@@ -45,3 +45,4 @@ jobs:
           path: 'public'
           destination: 'spaventa-bucket'
           parent: false
+          process_gcloudignore: false
